@@ -2,7 +2,7 @@ import Image from "next/image";
 import styles from "./contact.module.css";
 
 export const metadata = {
-  title: "Contact Page",
+  title: "Sikku Creation - Contact Page",
   description: "Contact description",
 };
 

@@ -11,7 +11,7 @@ const Home = () => {
           We create digital ideas that are bigger, bolder, braver and better.
         </p>
         <div className={styles.buttons}>
-          <Link href="/about"><button className={`${styles.button} ${styles.button1}`}>Explore More</button></Link>
+          <Link href="/blog"><button className={`${styles.button} ${styles.button1}`}>Explore Blog</button></Link>
           <Link href="/contact"><button className={styles.button}>Contact</button></Link>
         </div>
         <div className={styles.brands}>
